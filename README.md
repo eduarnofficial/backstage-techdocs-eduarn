@@ -4,6 +4,11 @@
 
 [EduArn.com](https://eduarn.com/eduarn-lms)
 
+<video width="800" controls>
+  <source src="https://youtu.be/H30TjIvTlpc" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 # Overview
@@ -437,13 +442,6 @@ Participants completing all labs and capstone exercises will receive:
 * End-to-end IDP exposure
 
 ---
-
-<iframe width="800" height="450"
-src="https://www.youtube.com/embed/H30TjIvTlpc"
-title="YouTube video player"
-frameborder="0"
-allowfullscreen>
-</iframe>
 
 # Support
 
