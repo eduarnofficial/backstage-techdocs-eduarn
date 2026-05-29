@@ -5,8 +5,8 @@
 [EduArn.com](https://eduarn.com/eduarn-lms)
 
 ## Training Demo Video
+[Platform Engineering Training Video](https://youtube.com/shorts/Oj9Rw4q1RBE)
 
-[[![Platform Engineering Training]](https://youtube.com/shorts/Oj9Rw4q1RBE)
 
 ---
 
