@@ -1,1 +1,14 @@
-TODO
+apiVersion: backstage.io/v1alpha1
+kind: Component
+
+metadata:
+  name: techdocs-service
+  description: TechDocs microservice
+
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+
+spec:
+  type: service
+  lifecycle: production
+  owner: group:default/team-payments
