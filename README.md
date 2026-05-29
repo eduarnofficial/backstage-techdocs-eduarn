@@ -438,6 +438,13 @@ Participants completing all labs and capstone exercises will receive:
 
 ---
 
+<iframe width="800" height="450"
+src="https://www.youtube.com/embed/H30TjIvTlpc"
+title="YouTube video player"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
 # Support
 
 For lab issues or environment support:
