@@ -4,10 +4,9 @@
 
 [EduArn.com](https://eduarn.com/eduarn-lms)
 
-<video width="800" controls>
-  <source src="https://youtu.be/H30TjIvTlpc" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Training Demo Video
+
+[[![Platform Engineering Training]](https://youtube.com/shorts/Oj9Rw4q1RBE)
 
 ---
 
