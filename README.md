@@ -2,7 +2,7 @@
 
 ![Training Banner](./Backstage-Corporate-Training-EduArn-TCS-TimesGroup.png)
 
-![EduArn.com][https://eduarn.com/eduarn-lms]
+[EduArn.com](https://eduarn.com/eduarn-lms)
 
 ---
 
